@@ -1,0 +1,59 @@
+.itsheading {
+    background-image: url(/images/black-sand-beach.jpg);
+    background-size: cover;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding:20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+.button {
+    font-size: 20px;
+    border-radius: 50px;
+}
+body{
+    
+    line-height: 1.8;
+    font-size: 20px;
+    padding:0%;
+    font-family: Arial;
+    margin: 0px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right:0%;
+
+}
+.firstsection {
+  background-color: sienna;
+}
+.secondsection{
+    background-color: aliceblue;
+}
+.thirdsection {
+    line-height: 1.5;
+    font-size: 20px;
+    display: flex;
+    font-family: Arial;
+    margin: 0px;
+    margin-top: 0%;
+    padding:0%;
+
+}
+.firstbox, .thirdbox{
+    background-color:sienna;
+}
+.button:hover {
+    background-color:sienna;
+}
